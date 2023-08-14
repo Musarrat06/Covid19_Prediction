@@ -1,4 +1,4 @@
-# 🔍 **COVID-19 Prediction Project** 🦠
+# 🔍 **COVID-19 Prediction Project** 🦠 - **Machine Learning**
 
 During these challenging times, I undertook a meaningful data science project aimed at predicting COVID-19 outcomes. Leveraging machine learning techniques, I developed models to predict whether an individual would test positive or negative for COVID-19 based on key symptoms and demographic factors. This involved data preprocessing, feature selection, and employing various algorithms to achieve accurate predictions.
 
